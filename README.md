@@ -1,5 +1,6 @@
-# Aryan Rathod (Kaiiddo) ### 🌌 Spacial Readme | Developer & Tech Enthusiast
-markdown
+# Aryan Rathod (Kaiiddo) 
+### 🌌 Spacial Readme | Developer & Tech Enthusiast
+
 💫 Owner Of Code | ✨ Building the Future, One Line at a Time  
 
 🔭 Currently Excelling In:  
